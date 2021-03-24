@@ -1,2 +1,2 @@
-# Python-
+# Python-tutorial-0326
 3月26日の全国医療AIコンテストでのPythonチュートリアル講義のおまけ宿題の解答
